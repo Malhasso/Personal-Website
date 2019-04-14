@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
+@import url(http://fonts.googleapis.com/earlyaccess/amiri.css);
 
 /*
 	Identity by HTML5 UP
@@ -1025,3 +1026,10 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+/*	bonus edits */
+	/* 	Arabic	*/
+	p.Arabic {
+		font-size: 175%;
+		color: grey;
+	}
